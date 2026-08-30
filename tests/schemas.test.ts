@@ -28,6 +28,12 @@ test("valid structured Gemini output passes validation", () => {
   assert.equal(summarySchema.parse(validSummary).slug, "test-title");
 });
 
+test("a substantial concise detail section is accepted for a short lecture", () => {
+  const conciseDetail = urduSentence.repeat(8);
+  assert.ok(conciseDetail.length >= 500);
+  assert.equal(summarySchema.parse({ ...validSummary, detailedUrduSummary: conciseDetail }).detailedUrduSummary, conciseDetail);
+});
+
 test("malformed or incomplete AI output is rejected", () => {
   assert.throws(() => summarySchema.parse({ ...validSummary, detailedUrduSummary: "مختصر", keyPointsUrdu: [] }));
 });

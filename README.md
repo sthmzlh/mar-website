@@ -188,7 +188,7 @@ On scheduled/manual runs it:
 
 1. installs the locked dependencies with `npm ci`;
 2. checks the RSS feed and skips processed IDs;
-3. sends at most one new video to Gemini by default, with no automatic API retry;
+3. sends exactly one new video at most to Gemini per run, with no automatic API retry;
 4. validates and writes articles one at a time;
 5. runs ingestion tests and the production build;
 6. commits only when generated content changed;

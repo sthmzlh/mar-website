@@ -6,11 +6,6 @@ on:
   schedule:
     - cron: "17 */2 * * *"
   workflow_dispatch:
-    inputs:
-      limit:
-        description: "Maximum new videos to process (1–15)"
-        required: false
-        default: "1"
 
 concurrency:
   group: pages-and-ingestion
@@ -45,8 +40,7 @@ jobs:
         if: github.event_name != 'push'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          INGEST_LIMIT: ${{ github.event.inputs.limit || '1' }}
-        run: npm run ingest -- --limit "$INGEST_LIMIT"
+        run: npm run ingest -- --limit 1
 
       - name: Test ingestion safeguards
         run: npm test

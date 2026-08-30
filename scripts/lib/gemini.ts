@@ -18,7 +18,7 @@ function promptFor(video: VideoMetadata) {
 
 Carefully analyze the available lecture video. Summarize only statements actually present in the lecture and preserve the speaker's intended meaning. Do not invent facts, Islamic rulings, fatwas, Quranic verses, Hadith references, Arabic quotations, scholars, books, examples, or claims. Do not independently answer religious questions or reinterpret the speaker. Distinguish quoted material from the speaker's own conclusions where possible. If any reference or claim is uncertain, omit it rather than guess.
 
-Write clear, natural, easy-to-read Urdu. Produce a short Urdu summary of approximately 100–200 words, a detailed Urdu summary of approximately 500–1000 words depending on the lecture, 5–12 useful key points in Urdu, a concise but useful English summary, matching English key points, and accurate topic metadata. Use a respectful tone. The English and Urdu topic arrays should align by index. Create a concise human-readable Latin-character slug. Output only valid structured data conforming to the supplied schema.
+Write clear, natural, easy-to-read Urdu. Produce a short Urdu summary of approximately 100–200 words and a detailed Urdu summary proportional to the lecture's actual length. Do not pad a short lecture with repetition or invented detail. Include 5–12 useful key points in Urdu, a concise but useful English summary, matching English key points, and accurate topic metadata. Use a respectful tone. The English and Urdu topic arrays should align by index. Create a concise human-readable Latin-character slug. Output only valid structured data conforming to the supplied schema.
 
 Required source metadata (copy these values exactly):
 - youtubeVideoId: ${video.youtubeVideoId}
