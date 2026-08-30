@@ -1,0 +1,30 @@
+---
+import type { Lecture } from "../lib/lectures";
+import { formatDate, topicPairs } from "../lib/lectures";
+
+const { lecture, featured = false } = Astro.props as { lecture: Lecture; featured?: boolean };
+const d = lecture.data;
+---
+<article class:list={["group overflow-hidden border border-forest/12 bg-white shadow-[0_16px_50px_rgba(20,44,36,.06)]", featured && "lg:grid lg:grid-cols-[1.05fr_.95fr]"]}>
+  <a href={`/bayan/${d.slug}/`} class="focus-ring relative block overflow-hidden bg-mist" aria-label={`Read summary: ${d.englishTitle}`}>
+    <img src={d.thumbnailUrl} alt="" loading={featured ? "eager" : "lazy"} width="1280" height="720" class:list={["aspect-video w-full object-cover transition duration-500 group-hover:scale-[1.02]", featured && "h-full"]} />
+    <span class="absolute bottom-4 right-4 rounded-full bg-forest-deep/90 px-4 py-2 text-xs font-bold text-white backdrop-blur-sm">خلاصہ پڑھیں</span>
+  </a>
+  <div class:list={["p-6 sm:p-8", featured && "lg:p-10"]}>
+    <div class="flex flex-wrap items-center gap-3 text-xs text-ink/50">
+      <time datetime={d.publicationDate.toISOString()}>{formatDate(d.publicationDate)}</time>
+      <span aria-hidden="true">•</span>
+      <span>AI-assisted summary</span>
+    </div>
+    <h3 class="urdu mt-4 text-2xl font-bold leading-[1.85] text-forest"><a class="focus-ring rounded-sm" href={`/bayan/${d.slug}/`}>{d.urduTitle}</a></h3>
+    <p dir="ltr" class="mt-1 text-sm font-semibold text-ink/55">{d.englishTitle}</p>
+    <p class="urdu mt-5 line-clamp-4 leading-[2.05] text-ink/68">{d.shortUrduSummary}</p>
+    <div class="mt-6 flex flex-wrap gap-2">
+      {topicPairs(lecture).slice(0, 3).map((topic) => <a href={`/topics/${topic.slug}/`} class="focus-ring rounded-full bg-mist px-3 py-1.5 text-xs font-semibold text-forest">{topic.nameUrdu}</a>)}
+    </div>
+    <div class="mt-7 flex flex-wrap gap-5 text-sm font-bold">
+      <a href={`/bayan/${d.slug}/`} class="focus-ring border-b-2 border-gold pb-1 text-forest">مکمل خلاصہ →</a>
+      <a href={d.youtubeUrl} target="_blank" rel="noopener noreferrer" class="focus-ring text-ink/55 hover:text-forest">YouTube ↗</a>
+    </div>
+  </div>
+</article>

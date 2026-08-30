@@ -1,0 +1,83 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import EmptyState from "../components/EmptyState.astro";
+import LectureCard from "../components/LectureCard.astro";
+import { getLectures } from "../lib/lectures";
+import { muftiProfile } from "../data/mufti-profile";
+import { site } from "../data/site";
+
+const lectures = await getLectures();
+const latest = lectures[0];
+---
+<BaseLayout title="مفتی عبد الرحیم — Lecture Summary Archive" description="Public lectures of Mufti Abdul Raheem, organized in searchable Urdu and English AI-assisted summaries.">
+  <section class="pattern-grid relative overflow-hidden bg-forest-deep text-white">
+    <div class="absolute -left-20 top-16 size-80 rounded-full border border-gold/15"></div>
+    <div class="absolute -left-8 top-44 size-44 rounded-full border border-gold/10"></div>
+    <div class="container-site relative grid min-h-[660px] items-center gap-12 py-20 lg:grid-cols-[1.2fr_.8fr]">
+      <div>
+        <p class="eyebrow">Independent lecture archive · آزادانہ علمی ذخیرہ</p>
+        <h1 class="mt-7">
+          <span class="urdu block text-5xl font-bold leading-[1.75] sm:text-6xl lg:text-7xl">مفتی عبد الرحیم</span>
+          <span dir="ltr" class="mt-2 block text-2xl font-medium tracking-tight text-white/70 sm:text-3xl">Mufti Abdul Raheem</span>
+        </h1>
+        <p class="urdu mt-7 max-w-3xl text-xl leading-[2.15] text-white/78">عوامی طور پر دستیاب بیانات کو موضوعات کے تحت منظم کرنے اور اردو و انگریزی میں قابلِ تلاش خلاصے فراہم کرنے کی ایک آزادانہ کاوش۔</p>
+        <p dir="ltr" class="mt-4 max-w-2xl text-base leading-7 text-white/62">A calm, searchable home for AI-assisted summaries of publicly available lectures—always linked back to the original video.</p>
+        <div class="mt-9 flex flex-wrap gap-3">
+          <a href="/bayan/" class="focus-ring rounded-full bg-gold px-6 py-3.5 text-sm font-bold text-forest-deep transition hover:bg-[#c89b55]">تازہ بیانات</a>
+          <a href="/search/" class="focus-ring rounded-full border border-white/25 px-6 py-3.5 text-sm font-bold transition hover:border-gold hover:text-gold">Search Lectures</a>
+          <a href="https://www.youtube.com/@muftiabdulraheem" target="_blank" rel="noopener noreferrer" class="focus-ring rounded-full px-4 py-3.5 text-sm font-semibold text-white/75 hover:text-white">YouTube Channel ↗</a>
+        </div>
+      </div>
+      <aside class="relative border border-white/12 bg-white/[.055] p-7 backdrop-blur-sm sm:p-9">
+        <div class="absolute -right-px -top-px size-16 border-r-2 border-t-2 border-gold"></div>
+        <p class="urdu text-3xl font-semibold text-gold">علم، ترتیب، رسائی</p>
+        <div class="mt-8 space-y-7">
+          <div class="border-b border-white/10 pb-6"><strong class="urdu block text-lg">اصل بیان مقدم ہے</strong><span dir="ltr" class="mt-1 block text-sm leading-6 text-white/55">Every summary keeps the original YouTube lecture one click away.</span></div>
+          <div class="border-b border-white/10 pb-6"><strong class="urdu block text-lg">دو زبانوں میں خلاصہ</strong><span dir="ltr" class="mt-1 block text-sm leading-6 text-white/55">Urdu-first reading with concise English summaries.</span></div>
+          <div><strong class="urdu block text-lg">موضوعاتی تلاش</strong><span dir="ltr" class="mt-1 block text-sm leading-6 text-white/55">Browse by title, topic, keyword, year, or key point.</span></div>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="container-site py-20">
+    <div class="grid gap-10 lg:grid-cols-[.75fr_1.25fr] lg:items-center">
+      <div class="relative min-h-80 overflow-hidden bg-mist p-8">
+        <div class="absolute inset-7 border border-forest/10"></div>
+        <div class="absolute left-1/2 top-1/2 grid size-44 -translate-x-1/2 -translate-y-1/2 rotate-45 place-items-center border border-gold/30"><span class="-rotate-45 text-6xl text-forest/80">م</span></div>
+      </div>
+      <div>
+        <p class="eyebrow">Verified profile</p>
+        <h2 class="urdu mt-4 text-4xl font-bold leading-[1.9] text-forest">مفتی عبد الرحیم کون ہیں؟</h2>
+        <h3 dir="ltr" class="text-xl font-semibold text-ink/60">Who is Mufti Abdul Raheem?</h3>
+        <p class="urdu mt-6 text-lg leading-[2.15] text-ink/75">{muftiProfile.shortBiographyUrdu}</p>
+        <p dir="ltr" class="mt-4 leading-7 text-ink/60">{muftiProfile.shortBiographyEnglish}</p>
+        <a href="/about-mufti-abdul-raheem/" class="focus-ring mt-7 inline-flex border-b-2 border-gold pb-1 text-sm font-bold text-forest">مزید تعارف · Learn more →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="border-y border-forest/10 bg-[#f3f0e7] py-20">
+    <div class="container-site text-center">
+      <p class="eyebrow">Latest summaries</p>
+      <h2 class="urdu mt-4 text-4xl font-bold leading-[1.8] text-forest">تازہ بیانات</h2>
+      <div class="mt-10 text-right">{latest ? <LectureCard lecture={latest} featured /> : <EmptyState />}</div>
+    </div>
+  </section>
+
+  <section class="container-site py-20">
+    <div class="rounded-sm border border-gold/35 bg-forest px-7 py-10 text-white sm:px-12">
+      <div class="grid gap-7 lg:grid-cols-[1fr_auto] lg:items-center">
+        <div>
+          <p class="urdu text-2xl font-bold">یہ ویب سائٹ فروخت کے لیے دستیاب ہو سکتی ہے</p>
+          <h2 dir="ltr" class="mt-2 text-xl font-semibold">Website Available for Sale</h2>
+          <p dir="ltr" class="mt-3 max-w-3xl text-sm leading-6 text-white/65">This website and its associated digital assets may be available for acquisition. For inquiries, please contact the owner.</p>
+        </div>
+        <div class="flex flex-wrap gap-3 lg:justify-end">
+          <a href={`mailto:${site.email}?subject=Website%20Acquisition%20Inquiry`} class="focus-ring rounded-full bg-paper px-6 py-3 text-sm font-bold text-forest">Contact by Email</a>
+          <a href={`${site.whatsappUrl}?text=I%20am%20interested%20in%20the%20Mufti%20Abdul%20Raheem%20website.`} target="_blank" rel="noopener noreferrer" class="focus-ring rounded-full border border-white/25 px-6 py-3 text-sm font-bold text-white">Contact on WhatsApp</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

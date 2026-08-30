@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #17231f;
+  --color-forest: #173f35;
+  --color-forest-deep: #0d2c25;
+  --color-sage: #5e7d6d;
+  --color-mist: #edf2ec;
+  --color-paper: #fbfaf6;
+  --color-sand: #e8deca;
+  --color-gold: #b48a48;
+  --font-sans: "Inter", "Segoe UI", sans-serif;
+  --font-urdu: "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", serif;
+}
+
+:root {
+  color-scheme: light;
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  background: var(--color-paper);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; background: var(--color-paper); }
+a { color: inherit; }
+button, input, select { font: inherit; }
+.urdu { font-family: var(--font-urdu); line-height: 2.05; }
+.container-site { width: min(1180px, calc(100% - 2rem)); margin-inline: auto; }
+.eyebrow { letter-spacing: .14em; text-transform: uppercase; font-size: .72rem; font-weight: 700; color: var(--color-gold); }
+.focus-ring:focus-visible { outline: 3px solid rgba(180,138,72,.55); outline-offset: 3px; }
+.pattern-grid {
+  background-image: linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
+  background-size: 34px 34px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}

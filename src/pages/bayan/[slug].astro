@@ -1,0 +1,110 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import LightYouTube from "../../components/LightYouTube.astro";
+import LectureCard from "../../components/LectureCard.astro";
+import { formatDate, getLectures, topicPairs } from "../../lib/lectures";
+
+export async function getStaticPaths() {
+  const lectures = await getLectures();
+  return lectures.map((lecture) => ({ params: { slug: lecture.data.slug }, props: { lecture, lectures } }));
+}
+
+const { lecture, lectures } = Astro.props;
+const d = lecture.data;
+const topics = topicPairs(lecture);
+const related = lectures
+  .filter((item) => item.id !== lecture.id && item.data.topicsEnglish.some((topic: string) => d.topicsEnglish.includes(topic)))
+  .slice(0, 2);
+const canonical = `/bayan/${d.slug}/`;
+const detailedParagraphs = d.detailedUrduSummary.split("\n\n").filter(Boolean);
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: d.originalTitle,
+  description: d.englishSummary,
+  thumbnailUrl: [d.thumbnailUrl],
+  uploadDate: d.publicationDate.toISOString(),
+  embedUrl: `https://www.youtube-nocookie.com/embed/${d.youtubeVideoId}`,
+  contentUrl: d.youtubeUrl,
+};
+const breadcrumbLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Home", item: "https://muftiabdulraheem.com/" },
+    { "@type": "ListItem", position: 2, name: "Lectures", item: "https://muftiabdulraheem.com/bayan/" },
+    { "@type": "ListItem", position: 3, name: d.englishTitle, item: new URL(canonical, Astro.site).href },
+  ],
+};
+---
+<BaseLayout title={`${d.urduTitle} | Mufti Abdul Raheem`} description={d.englishSummary.slice(0, 155)} image={d.thumbnailUrl} canonical={canonical}>
+  <script is:inline slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
+  <script is:inline slot="head" type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)}></script>
+  <section class="border-b border-forest/10 bg-[#f3f0e7] py-5">
+    <nav aria-label="Breadcrumb" class="container-site flex flex-wrap items-center gap-2 text-xs text-ink/55">
+      <a href="/">ابتدا</a><span aria-hidden="true">/</span><a href="/bayan/">بیانات</a><span aria-hidden="true">/</span><span aria-current="page">{d.urduTitle}</span>
+    </nav>
+  </section>
+  <article>
+    <header class="container-site max-w-5xl py-14 text-center">
+      <p class="eyebrow">Lecture summary</p>
+      <h1 class="urdu mt-5 text-4xl font-bold leading-[1.9] text-forest sm:text-5xl">{d.urduTitle}</h1>
+      <p dir="ltr" class="mx-auto mt-3 max-w-3xl text-xl font-semibold leading-8 text-ink/55">{d.englishTitle}</p>
+      <p class="mt-5 text-sm text-ink/50"><time datetime={d.publicationDate.toISOString()}>{formatDate(d.publicationDate)}</time> · Mufti Abdul Raheem</p>
+    </header>
+    <div class="container-site max-w-5xl"><LightYouTube videoId={d.youtubeVideoId} title={d.originalTitle} thumbnailUrl={d.thumbnailUrl} /></div>
+    <div class="container-site grid max-w-5xl gap-10 py-14 lg:grid-cols-[1fr_250px]">
+      <div>
+        <aside class="border-r-4 border-gold bg-[#f3f0e7] p-6">
+          <p class="urdu font-semibold leading-[2]">یہ خلاصہ مصنوعی ذہانت کی مدد سے تیار کیا گیا ہے۔ مکمل سیاق و سباق کے لیے اصل بیان ضرور سنیں۔</p>
+          <p dir="ltr" class="mt-3 text-sm leading-6 text-ink/60">This summary was generated with the assistance of AI. Please watch the original lecture for complete context.</p>
+        </aside>
+        <section class="mt-12">
+          <p class="eyebrow">مختصر خلاصہ</p>
+          <h2 class="urdu mt-3 text-3xl font-bold leading-[1.8] text-forest">ایک نظر میں</h2>
+          <p class="urdu mt-5 text-lg leading-[2.25] text-ink/78">{d.shortUrduSummary}</p>
+        </section>
+        <section class="mt-14 border-t border-forest/10 pt-12">
+          <p class="eyebrow">تفصیلی خلاصہ</p>
+          <h2 class="urdu mt-3 text-3xl font-bold leading-[1.8] text-forest">بیان کا تفصیلی خلاصہ</h2>
+          {detailedParagraphs.map((paragraph: string) => <p class="urdu mt-5 text-lg leading-[2.3] text-ink/78">{paragraph}</p>)}
+        </section>
+        <section class="mt-14 border-t border-forest/10 pt-12">
+          <h2 class="urdu text-3xl font-bold leading-[1.8] text-forest">اہم نکات</h2>
+          <ul class="mt-6 space-y-4">{d.keyPointsUrdu.map((point: string) => <li class="urdu flex gap-4 text-lg leading-[2]"><span class="mt-3 size-2 shrink-0 rotate-45 bg-gold"></span><span>{point}</span></li>)}</ul>
+        </section>
+        <section dir="ltr" class="mt-14 border-t border-forest/10 pt-12 text-left">
+          <p class="eyebrow">English summary</p>
+          <h2 class="mt-3 text-3xl font-bold text-forest">Summary in English</h2>
+          <p class="mt-5 leading-8 text-ink/75">{d.englishSummary}</p>
+          <h3 class="mt-10 text-xl font-bold text-forest">Key points</h3>
+          <ul class="mt-5 list-disc space-y-3 pl-5 leading-7 text-ink/75">{d.keyPointsEnglish.map((point: string) => <li>{point}</li>)}</ul>
+        </section>
+      </div>
+      <aside class="space-y-8">
+        <div class="border border-forest/12 p-5">
+          <p class="eyebrow">Original lecture</p>
+          <p dir="ltr" class="mt-3 text-sm font-semibold leading-6">{d.originalTitle}</p>
+          <a href={d.youtubeUrl} target="_blank" rel="noopener noreferrer" class="focus-ring mt-5 inline-flex rounded-full bg-forest px-5 py-2.5 text-xs font-bold text-white">Watch on YouTube ↗</a>
+        </div>
+        <div>
+          <p class="eyebrow">Topics</p>
+          <div class="mt-4 flex flex-wrap gap-2">{topics.map((topic) => <a href={`/topics/${topic.slug}/`} class="focus-ring rounded-full bg-mist px-3 py-2 text-xs font-semibold text-forest">{topic.nameUrdu}</a>)}</div>
+        </div>
+        <button id="share-button" type="button" class="focus-ring w-full rounded-full border border-forest/20 px-5 py-3 text-sm font-bold text-forest">Share this summary</button>
+      </aside>
+    </div>
+  </article>
+  {related.length > 0 && <section class="border-t border-forest/10 bg-[#f3f0e7] py-16"><div class="container-site"><h2 class="urdu text-3xl font-bold text-forest">متعلقہ بیانات</h2><div class="mt-8 grid gap-8 md:grid-cols-2">{related.map((item: any) => <LectureCard lecture={item} />)}</div></div></section>}
+  <script>
+    document.querySelector("#share-button")?.addEventListener("click", async () => {
+      const data = { title: document.title, url: location.href };
+      if (navigator.share) await navigator.share(data);
+      else {
+        await navigator.clipboard.writeText(location.href);
+        const button = document.querySelector<HTMLButtonElement>("#share-button");
+        if (button) button.textContent = "Link copied";
+      }
+    });
+  </script>
+</BaseLayout>

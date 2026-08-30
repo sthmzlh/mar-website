@@ -1,0 +1,18 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import LectureCard from "../../components/LectureCard.astro";
+import { getAllTopics, getLectures, topicPairs } from "../../lib/lectures";
+
+export async function getStaticPaths() {
+  const lectures = await getLectures();
+  return getAllTopics(lectures).map((topic) => ({
+    params: { topic: topic.slug },
+    props: { topic, lectures: lectures.filter((lecture) => topicPairs(lecture).some((item) => item.slug === topic.slug)) },
+  }));
+}
+const { topic, lectures } = Astro.props;
+---
+<BaseLayout title={`${topic.nameUrdu} | ${topic.nameEnglish}`} description={`Browse Mufti Abdul Raheem lecture summaries about ${topic.nameEnglish}.`} canonical={`/topics/${topic.slug}/`}>
+  <section class="bg-forest-deep py-16 text-white"><div class="container-site"><p class="eyebrow">Topic</p><h1 class="urdu mt-4 text-5xl font-bold leading-[1.8]">{topic.nameUrdu}</h1><p dir="ltr" class="mt-2 text-xl text-white/60">{topic.nameEnglish}</p></div></section>
+  <section class="container-site py-16"><div class="grid gap-8 md:grid-cols-2">{lectures.map((lecture: any) => <LectureCard lecture={lecture} />)}</div></section>
+</BaseLayout>

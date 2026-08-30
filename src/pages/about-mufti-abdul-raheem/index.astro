@@ -1,0 +1,20 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { muftiProfile } from "../../data/mufti-profile";
+---
+<BaseLayout title="مفتی عبد الرحیم کا تعارف | Biography" description={muftiProfile.shortBiographyEnglish}>
+  <section class="bg-forest-deep py-16 text-white"><div class="container-site max-w-5xl"><p class="eyebrow">Verified public profile</p><h1 class="urdu mt-4 text-5xl font-bold leading-[1.8]">مفتی عبد الرحیم کا تعارف</h1><p dir="ltr" class="mt-2 text-xl text-white/60">A concise, source-linked public biography</p></div></section>
+  <article class="container-site grid max-w-5xl gap-12 py-16 lg:grid-cols-[1fr_280px]">
+    <div>
+      {muftiProfile.fullBiographyUrdu.map((paragraph) => <p class="urdu mb-6 text-lg leading-[2.3] text-ink/78">{paragraph}</p>)}
+      <div dir="ltr" class="mt-12 border-t border-forest/10 pt-10 text-left">
+        <h2 class="text-3xl font-bold text-forest">Biography in English</h2>
+        {muftiProfile.fullBiographyEnglish.map((paragraph) => <p class="mt-5 leading-8 text-ink/70">{paragraph}</p>)}
+      </div>
+    </div>
+    <aside>
+      <div class="border border-forest/12 bg-[#f3f0e7] p-6"><p class="eyebrow">Public role</p><p class="urdu mt-4 font-semibold leading-[2]">{muftiProfile.positions[0].urdu}</p><p dir="ltr" class="mt-2 text-sm leading-6 text-ink/60">{muftiProfile.positions[0].english}</p></div>
+      <div class="mt-8"><p class="eyebrow">Sources</p><ol dir="ltr" class="mt-4 space-y-4 text-left text-sm leading-6">{muftiProfile.sources.map((source, index) => <li><a href={source.url} target="_blank" rel="noopener noreferrer" class="focus-ring font-semibold text-forest underline decoration-gold underline-offset-4">{index + 1}. {source.title}</a><p class="mt-1 text-xs text-ink/50">{source.note}</p></li>)}</ol></div>
+    </aside>
+  </article>
+</BaseLayout>

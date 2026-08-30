@@ -1,0 +1,19 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import LectureCard from "../../components/LectureCard.astro";
+import EmptyState from "../../components/EmptyState.astro";
+import { getLectures } from "../../lib/lectures";
+const lectures = await getLectures();
+---
+<BaseLayout title="تازہ بیانات | Mufti Abdul Raheem Lecture Archive" description="Browse searchable Urdu and English summaries of publicly available lectures by Mufti Abdul Raheem.">
+  <section class="bg-forest-deep py-16 text-white">
+    <div class="container-site">
+      <p class="eyebrow">Lecture archive</p>
+      <h1 class="urdu mt-4 text-5xl font-bold leading-[1.8]">تمام بیانات</h1>
+      <p dir="ltr" class="mt-2 max-w-2xl text-white/60">Every summary links to the original public lecture for complete context.</p>
+    </div>
+  </section>
+  <section class="container-site py-16">
+    {lectures.length ? <div class="grid gap-8 md:grid-cols-2">{lectures.map((lecture) => <LectureCard lecture={lecture} />)}</div> : <EmptyState />}
+  </section>
+</BaseLayout>
