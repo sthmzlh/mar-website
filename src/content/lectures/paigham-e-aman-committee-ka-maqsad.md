@@ -1,0 +1,24 @@
+---
+youtubeVideoId: "NXUvjYIM3bI"
+youtubeUrl: "https://www.youtube.com/watch?v=NXUvjYIM3bI"
+originalTitle: "Paigham-e-Aman Committee Ka Maqsad | Mufti Abdul Raheem"
+urduTitle: "پیغام امن کمیٹی کا مقصد"
+englishTitle: "The Purpose of Paigham-e-Aman Committee"
+slug: "paigham-e-aman-committee-ka-maqsad"
+publicationDate: "2026-09-08"
+thumbnailUrl: "https://i.ytimg.com/vi/NXUvjYIM3bI/hqdefault.jpg"
+shortUrduSummary: "مفتی عبد الرحیم اس ویڈیو میں 'پیغام امن کمیٹی' کے قیام اور اس کے بنیادی مقاصد پر روشنی ڈالتے ہیں۔ وہ بتاتے ہیں کہ پیغام پاکستان کے اعلامیے اور فتویٰ کو آٹھ نو سال گزرنے کے باوجود معاشرے میں اس پر عملی نفاذ کی کمی ہے۔ اس کمیٹی میں تمام مسالک، مذاہب اور بڑے مدارس بورڈز کے نمائندے شامل ہیں تاکہ اس امن کے پیغام کو مدارس اور دینی درسگاہوں تک مؤثر طریقے سے پہنچایا جا سکے، خوں ریزی کا خاتمہ ہو، اور فرقہ واریت اور باہمی اختلافات کا سدباب کیا جا سکے۔"
+detailedUrduSummary: "مفتی عبد الرحیم اس بیان میں 'پیغام امن کمیٹی' کے قیام اور اس کے اغراض و مقاصد کو بیان کرتے ہیں۔ آپ فرماتے ہیں کہ پیغامِ پاکستان، جس پر ہزاروں علماء اور اکابرین نے دستخط کیے اور فتویٰ دیا، اس کو نافذ کرنے اور ترویج دینے کے لیے پیغام امن کمیٹی بنائی گئی ہے۔ یہ بہت بڑا المیہ ہے کہ ہم زبان سے تو بڑی باتیں کرتے ہیں لیکن عملی طور پر ان پر عمل نہیں کرتے۔ پیغامِ پاکستان کا فتویٰ آئے ہوئے آٹھ دس سال ہو چکے ہیں، مگر اس کے باوجود آج ہمارے جنازے اٹھ رہے ہیں، ملک میں قتل و غارت گری جاری ہے، اور غیر طاقتیں اس صورتحال کا فائدہ اٹھا رہی ہیں۔ اس کمیٹی کی بنیادی ذمہ داری یہ ہے کہ اس میں تمام مسالک، تمام مذاہب اور پندرہ میں سے تیرہ بڑے مدارس بورڈز شامل ہیں۔ اس کا مقصد یہ ہے کہ امن کے اس پیغام کو ہر مدرسے اور دارالافتاء تک پہنچایا جائے تاکہ خون ریزی کا دروازہ بند ہو سکے، اور ہم فرقہ واریت اور اختلافات سے بالاتر ہو کر دنیا کو یہ بتائیں کہ ہم متحد ہیں۔"
+englishSummary: "In this video, Mufti Abdul Raheem explains the purpose and objectives of the Paigham-e-Aman Committee. He notes that although the Paigham-e-Pakistan fatwa and declaration were issued nearly a decade ago, there has been a lack of practical implementation. The committee includes representatives from various schools of thought, religions, and major Wifaq-ul-Madaris boards. Its core responsibility is to carry the message of peace to every religious institution and madrasa to curb bloodshed, sectarianism, and internal divisions."
+keyPointsUrdu: ["پیغام امن کمیٹی کا مقصد پیغام پاکستان کے فتویٰ اور اعلامیے کی عملی ترویج کرنا ہے۔","زبانی جمع خرچ کے باوجود معاشرے میں عملی اقدامات کی کمی ایک بڑا المیہ ہے۔","پیغامِ پاکستان کے فتویٰ کو آٹھ نو سال گزرنے کے باوجود ملکی حالات اور قتل و غارت گری تشویشناک ہیں۔","اس امن کمیٹی میں تمام مسالک اور مذاہب کے نمائندے شامل ہیں۔","پندرہ میں سے تیرہ بڑے مدارس بورڈز اس پیغام امن کمیٹی کا حصہ ہیں۔","کمیٹی کا مقصد اس امن کے پیغام کو ہر مدرسے اور دارالافتاء تک پہنچانا ہے۔","امن کے اس اقدام کا مقصد ملک میں خون ریزی کا سدباب کرنا ہے۔","فرقہ واریت اور باہمی اختلافات کو ہوا دینے والی بیرونی سازشوں کا مقابلہ کرنا ضروری ہے۔"]
+keyPointsEnglish: ["The Paigham-e-Aman Committee aims to promote and implement the Paigham-e-Pakistan declaration.","There is a significant gap between verbal claims and practical implementation in society.","Despite the fatwa being issued nearly a decade ago, violence and turmoil remain a challenge.","The committee brings together representatives from various Islamic schools of thought and religions.","Thirteen out of fifteen major madrasa boards are part of this peace committee.","The objective is to spread the message of peace to every religious school and seminary.","A primary goal of the committee is to help stop bloodshed and violence in the country.","It seeks to counter sectarianism and internal divisions that external forces exploit."]
+topicsUrdu: ["امْن و سلامتی","پیغامِ پاکستان","فرقہ واریت کا خاتمہ","اتحادِ امت","مدارسِ دینیہ"]
+topicsEnglish: ["Peace and Security","Paigham-e-Pakistan","Curbing Sectarianism","Unity of Ummah","Religious Seminaries"]
+keywords: ["Mufti Abdul Raheem","Paigham e Aman Committee","Paigham e Pakistan","Madaris","Sectarianism","Peace","Pakistan"]
+speaker: "Mufti Abdul Raheem"
+generatedAt: "2026-09-08T11:26:16.468Z"
+aiAssisted: true
+draft: false
+---
+
+مفتی عبد الرحیم اس بیان میں 'پیغام امن کمیٹی' کے قیام اور اس کے اغراض و مقاصد کو بیان کرتے ہیں۔ آپ فرماتے ہیں کہ پیغامِ پاکستان، جس پر ہزاروں علماء اور اکابرین نے دستخط کیے اور فتویٰ دیا، اس کو نافذ کرنے اور ترویج دینے کے لیے پیغام امن کمیٹی بنائی گئی ہے۔ یہ بہت بڑا المیہ ہے کہ ہم زبان سے تو بڑی باتیں کرتے ہیں لیکن عملی طور پر ان پر عمل نہیں کرتے۔ پیغامِ پاکستان کا فتویٰ آئے ہوئے آٹھ دس سال ہو چکے ہیں، مگر اس کے باوجود آج ہمارے جنازے اٹھ رہے ہیں، ملک میں قتل و غارت گری جاری ہے، اور غیر طاقتیں اس صورتحال کا فائدہ اٹھا رہی ہیں۔ اس کمیٹی کی بنیادی ذمہ داری یہ ہے کہ اس میں تمام مسالک، تمام مذاہب اور پندرہ میں سے تیرہ بڑے مدارس بورڈز شامل ہیں۔ اس کا مقصد یہ ہے کہ امن کے اس پیغام کو ہر مدرسے اور دارالافتاء تک پہنچایا جائے تاکہ خون ریزی کا دروازہ بند ہو سکے، اور ہم فرقہ واریت اور اختلافات سے بالاتر ہو کر دنیا کو یہ بتائیں کہ ہم متحد ہیں۔
