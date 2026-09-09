@@ -1,0 +1,28 @@
+---
+youtubeVideoId: "Dyc-ZnSSJjA"
+youtubeUrl: "https://www.youtube.com/watch?v=Dyc-ZnSSJjA"
+originalTitle: "Jamhuriyat aur Election ka Sharai Jaiza | Mufti Abdul Raheem"
+urduTitle: "جمہوریت اور الیکشن کا شرعی جائزہ"
+englishTitle: "An Islamic Review of Democracy and Elections"
+slug: "jamhuriyat-aur-election-ka-sharai-jaiza"
+publicationDate: "2026-09-09"
+thumbnailUrl: "https://i.ytimg.com/vi/Dyc-ZnSSJjA/hqdefault.jpg"
+shortUrduSummary: "اس ویڈیو میں مفتی عبد الرحيم نے جمہوریت، قانون سازی اور الیکشن کے شرعی اور آئینی پہلوؤں پر تفصیلی روشنی ڈالی ہے۔ آپ نے واضح کیا کہ پاکستان میں جمہوریت قرآن و سنت کے تابع ہے جہاں کوئی بھی قانون شریعت کے خلاف نہیں بنایا جا سکتا۔ پارلیمنٹ اور آئین کے وہ حصے جو ناقابلِ تنسیخ ہیں اور اسلامی نظریے کی پاسداری کرتے ہیں، ان پر گفتگو کی گئی۔ اس کے علاوہ الیکشن، ووٹ کے حقوق، ارکانِ پارلیمنٹ کی اہلیت کے شرعی تقاضے اور ریاست کو چلانے کے طریقوں پر سیرحاصل بحث کی گئی ہے۔"
+detailedUrduSummary: "مفتی عبد الرحيم نے اس خطاب میں جمہوریت، قانون سازی، آئین اور الیکشن کے مختلف شرعی و قانونی پہلوؤں پر گفتگو فرمائی ہے۔ آپ نے وضاحت کی کہ دنیا کے دیگر ممالک میں جمہوریت کو ہر قسم کی قانون سازی کا مطلق اختیار حاصل ہے، جبکہ پاکستان میں جمہوریت کو قرآن و سنت کے تابع بنایا گیا ہے۔ پاکستان میں قرآن و سنت کے خلاف کوئی قانون سازی نہیں ہو سکتی اور نہ ہی پارلیمنٹ اسے منظور کر سکتی ہے۔\n\nآئین کے دو حصے ہوتے ہیں؛ ایک وہ جو تبدیل ہو سکتا ہے اور دوسرا وہ جو ناقابلِ تنسیخ ہے۔ پاکستان میں آئین سازی کو قرآن و سنت سے مشروط کیا گیا ہے۔ مفتی صاحب نے آئین کے آرٹیکل 62 کا حوالہ دیتے ہوئے اراکینِ پارلیمنٹ اور قائدین کی شرعی و اخلاقی صلاحیتوں کا ذکر کیا، جن کے مطابق ایک نمائندے کو اچھے کردار کا حامل، اسلامی تعلیمات کا علم رکھنے والا، کبیرہ گناہوں سے اجتناب کرنے والا اور نظریہ پاکستان کا حامی ہونا چاہیے۔\n\nخطاب میں اس بات پر بھی زور دیا گیا کہ الیکشن اور نظمِ حکومت انتظامی معاملات ہیں جن میں اصلاح کی گنجائش موجود ہوتی ہے۔ الیکشن کے نظام اور ووٹ کے حق کو بہتر بنانے کے لیے شرعی اصولوں کو سامنے رکھنا ضروری ہے۔ آخر میں آپ نے مدارس کے طلبہ کو تلقین کی کہ وہ ملکی سیاست، قانون سازی اور آئینی امور کا علمی اور تحقیقی مطالعہ کریں تاکہ ان معاملات میں بہتر رہنمائی فراہم کی جا سکے۔"
+englishSummary: "In this lecture, Mufti Abdul Raheem provides an Islamic and constitutional review of democracy, legislation, and elections. He explains that while Western democracies hold absolute legislative power, Pakistan's democracy is constitutionally bound by the Quran and Sunnah, prohibiting any laws contrary to Islamic teachings. He discusses Article 62 of the Constitution, detailing the moral, religious, and qualification criteria for parliamentarians and leaders. Furthermore, the lecture covers administrative matters regarding elections, voting rights, and encourages students to engage in academic and research studies on political science and Islamic jurisprudence."
+keyPointsUrdu: ["پاکستان میں جمہوریت قرآن و سنت کے تابع ہے اور اس کے خلاف کوئی قانون نہیں بن سکتا۔","آئین کے کچھ حصے تبدیل کیے جا سکتے ہیں جبکہ بنیادی اسلامی دفعات ناقابلِ تنسیخ ہیں۔","آئین کا آرٹیکل 62 اراکینِ پارلیمنٹ کے لیے اچھے کردار، دیانت اور اسلامی تعلیمات کی پابندی کی شرط عائد کرتا ہے۔","انتظامی امور اور الیکشن کے نظام میں شرعی حدود کے اندر رہتے ہوئے اصلاحات کی گنجائش ہے۔","ملکی قیادت اور گورنر کے عہدوں کے لیے مقامی اور اہل افراد کے انتخاب کا اصول بیان کیا گیا۔","مدارس کے طلبہ کو سیاسی علوم اور قانون سازی کے موضوعات پر تحقیقی مقالے لکھنے کی ترغیب دی گئی۔"]
+keyPointsEnglish: ["Democracy in Pakistan is subordinate to the Quran and Sunnah, prohibiting laws against Islamic injunctions.","Constitutional provisions have parts that can be amended and foundational parts that are unalterable.","Article 62 of the Constitution outlines moral, honest, and religious requirements for parliamentarians.","Administrative affairs and the election system can be reformed within the bounds of Shariah.","Leaders and governors should be chosen from among qualified local individuals.","Seminary students are encouraged to conduct research on political science and legislation."]
+topicsUrdu: ["جمہوریت اور قانون سازی","آئینِ پاکستان اور اسلامی احکام","الیکشن اور ووٹ کا حق","آرٹیکل 62 کے تقاضے","اسلامی نظامِ حکومت"]
+topicsEnglish: ["Democracy and Legislation","Constitution of Pakistan and Islamic Injunctions","Elections and Voting Rights","Requirements of Article 62","Islamic Governance System"]
+keywords: ["Jamhuriyat","Election","Mufti Abdul Raheem","Quran o Sunnat","Article 62","Pakistan","Islamic Jurisprudence","Parliament","Shariah"]
+speaker: "Mufti Abdul Raheem"
+generatedAt: "2026-09-09T17:52:18.758Z"
+aiAssisted: true
+draft: false
+---
+
+مفتی عبد الرحيم نے اس خطاب میں جمہوریت، قانون سازی، آئین اور الیکشن کے مختلف شرعی و قانونی پہلوؤں پر گفتگو فرمائی ہے۔ آپ نے وضاحت کی کہ دنیا کے دیگر ممالک میں جمہوریت کو ہر قسم کی قانون سازی کا مطلق اختیار حاصل ہے، جبکہ پاکستان میں جمہوریت کو قرآن و سنت کے تابع بنایا گیا ہے۔ پاکستان میں قرآن و سنت کے خلاف کوئی قانون سازی نہیں ہو سکتی اور نہ ہی پارلیمنٹ اسے منظور کر سکتی ہے۔
+
+آئین کے دو حصے ہوتے ہیں؛ ایک وہ جو تبدیل ہو سکتا ہے اور دوسرا وہ جو ناقابلِ تنسیخ ہے۔ پاکستان میں آئین سازی کو قرآن و سنت سے مشروط کیا گیا ہے۔ مفتی صاحب نے آئین کے آرٹیکل 62 کا حوالہ دیتے ہوئے اراکینِ پارلیمنٹ اور قائدین کی شرعی و اخلاقی صلاحیتوں کا ذکر کیا، جن کے مطابق ایک نمائندے کو اچھے کردار کا حامل، اسلامی تعلیمات کا علم رکھنے والا، کبیرہ گناہوں سے اجتناب کرنے والا اور نظریہ پاکستان کا حامی ہونا چاہیے۔
+
+خطاب میں اس بات پر بھی زور دیا گیا کہ الیکشن اور نظمِ حکومت انتظامی معاملات ہیں جن میں اصلاح کی گنجائش موجود ہوتی ہے۔ الیکشن کے نظام اور ووٹ کے حق کو بہتر بنانے کے لیے شرعی اصولوں کو سامنے رکھنا ضروری ہے۔ آخر میں آپ نے مدارس کے طلبہ کو تلقین کی کہ وہ ملکی سیاست، قانون سازی اور آئینی امور کا علمی اور تحقیقی مطالعہ کریں تاکہ ان معاملات میں بہتر رہنمائی فراہم کی جا سکے۔
