@@ -1,0 +1,24 @@
+---
+youtubeVideoId: "mcIlOE_qixU"
+youtubeUrl: "https://www.youtube.com/watch?v=mcIlOE_qixU"
+originalTitle: "Spread Positive News | Mufti Abdul Raheem"
+urduTitle: "مثبت خبریں پھیلائیں اور منفی سے گریز کریں"
+englishTitle: "Spread Positive News and Avoid Negativity"
+slug: "spread-positive-news-and-avoid-negativity"
+publicationDate: "2026-09-10"
+thumbnailUrl: "https://i.ytimg.com/vi/mcIlOE_qixU/hqdefault.jpg"
+shortUrduSummary: "مفتی عبد الرحیم اس بیان میں اس بات پر زور دیتے ہیں کہ اگر میڈیا اور معاشرے میں مثبت کاموں کو اجاگر کیا جائے تو ملک اور معاشرہ بہت بہتر نظر آئے گا۔ اگر ہم ہر وقت منفی چیزوں، اسکینڈلز اور نقصانات پر ہی توجہ مرکوز رکھیں گے اور نعمتوں کو نظر انداز کر دیں گے تو زندگی جہنم جیسی محسوس ہوگی۔ مثبت سوچ کے ساتھ دیکھنے سے ہمیں ہر طرف اللہ کی نعمتیں اور مواقع نظر آئیں گے۔ ہمیں اپنے حالات کا تقابل پچھले ادوار سے کرنا چاہیے اور روزانہ اللہ کی نعمتوں پر شکر ادا کرنے کی عادت ڈالنی چاہیے۔"
+detailedUrduSummary: "مفتی عبد الرحیم اس مختصر بیان میں معاشرے میں مثبت سوچ اور شکرگزاری کی اہمیت پر روشنی ڈالتے ہیں۔ وہ فرماتے ہیں کہ اگر پرنٹ، الیکٹرانک اور سوشل میڈیا ملک میں ہونے والے اچھے کاموں کو اجاگر کرنا شروع کر دے تو ہر طرف بہتری اور مثبت فضا نظر آئے گی۔ اس کے برعکس، اگر صرف اسکینڈلز، برائیوں اور نقصانات کو ہی اٹھایا جائے اور اللہ کی دی ہوئی نعمتوں کو نظر انداز کر دیا جائے تو انسان کو ایسا محسوس ہوگا جیسے وہ جہنم میں رہ رہا ہے۔ مثبت سوچ کے ساتھ زندگی گزارنے سے انسان کو ہر طرف اللہ کی نعمتیں اور مواقع نظر آتے ہیں جبکہ منفی سوچ ہر چیز کو خراب اور ناپسندیدہ بنا دیتی ہے۔ مفتی صاحب یاد دلاتے ہیں کہ ہمیں پچھلے دس یا بیس سال کے حالات کا موازنہ آج کے دور سے کرنا چاہیے تاکہ اندازہ ہو سکے کہ اللہ تعالی نے ہمیں کتنی سہولتیں اور نعمتیں عطا کی ہیں۔ ہمیں روزانہ دن بھر کی نعمتوں پر غور کرنا چاہیے اور ان پر شکر ادا کرنا چاہیے، کیونکہ شکر ادا کرنے کی اتنی بڑی اہمیت ہے کہ ہر عقلمند انسان کو اس پر توجہ دینی چاہیے۔ مثبت چیزوں پر دھیان دینا اور شکرگزاری کا رویہ اپنانا ہی حقیقی سکون کا ذریعہ ہے۔"
+englishSummary: "Mufti Abdul Raheem emphasizes the importance of spreading positive news and maintaining an attitude of gratitude in society. He explains that if media platforms highlight good deeds and positive developments, the country will appear prosperous and hopeful. Focusing solely on negativity, scandals, and complaints creates a miserable environment. By adopting a positive mindset and reflecting on past decades, individuals can recognize the countless blessings and favors bestowed by Allah, encouraging a constant practice of gratitude."
+keyPointsUrdu: ["میڈیا اور سوشل میڈیا کو معاشرے میں اچھے کاموں اور مثبت خبروں کو اجاگر کرنا چاہیے۔","صرف منفی چیزوں اور اسکینڈلز پر توجہ دینے سے انسان ذہنی اذیت اور مایوسی کا شکار ہو جاتا ہے۔","مثبت سوچ اپنانے سے انسان کو ہر طرف اللہ کی نعمتیں اور مواقع نظر آتے ہیں۔","ہمیں اپنے ماضی (دس یا بیس سال پہلے) کے حالات کا جائزہ لے کر موجودہ دور کی سہولتوں کا شکر ادا کرنا چاہیے۔","شکر گزاری کی عادت انسان کو ذہنی سکون اور اطمینان عطا کرتی ہے۔","مثبت چیزوں پر دھیان دینا اور شکر ادا کرنا ہر باشعور انسان کی ذمہ داری ہے۔"]
+keyPointsEnglish: ["Media and social media should highlight positive deeds and good news in society.","Focusing solely on scandals and negativity leads to mental distress and hopelessness.","Adopting a positive mindset helps individuals recognize blessings and opportunities everywhere.","We should compare our current conditions with past decades to appreciate Allah's favors.","Practicing gratitude brings inner peace and contentment.","Paying attention to positive aspects and expressing thankfulness is essential for a balanced life."]
+topicsUrdu: ["مثبت سوچ","شکر گزاری","میڈیا کا کردار","معاشرتی اصلاح"]
+topicsEnglish: ["Positive Thinking","Gratitude","Role of Media","Social Reform"]
+keywords: ["Mufti Abdul Raheem","Positive News","Shukr","Media","Positivity","Islamic Advice"]
+speaker: "Mufti Abdul Raheem"
+generatedAt: "2026-09-10T12:57:44.919Z"
+aiAssisted: true
+draft: false
+---
+
+مفتی عبد الرحیم اس مختصر بیان میں معاشرے میں مثبت سوچ اور شکرگزاری کی اہمیت پر روشنی ڈالتے ہیں۔ وہ فرماتے ہیں کہ اگر پرنٹ، الیکٹرانک اور سوشل میڈیا ملک میں ہونے والے اچھے کاموں کو اجاگر کرنا شروع کر دے تو ہر طرف بہتری اور مثبت فضا نظر آئے گی۔ اس کے برعکس، اگر صرف اسکینڈلز، برائیوں اور نقصانات کو ہی اٹھایا جائے اور اللہ کی دی ہوئی نعمتوں کو نظر انداز کر دیا جائے تو انسان کو ایسا محسوس ہوگا جیسے وہ جہنم میں رہ رہا ہے۔ مثبت سوچ کے ساتھ زندگی گزارنے سے انسان کو ہر طرف اللہ کی نعمتیں اور مواقع نظر آتے ہیں جبکہ منفی سوچ ہر چیز کو خراب اور ناپسندیدہ بنا دیتی ہے۔ مفتی صاحب یاد دلاتے ہیں کہ ہمیں پچھلے دس یا بیس سال کے حالات کا موازنہ آج کے دور سے کرنا چاہیے تاکہ اندازہ ہو سکے کہ اللہ تعالی نے ہمیں کتنی سہولتیں اور نعمتیں عطا کی ہیں۔ ہمیں روزانہ دن بھر کی نعمتوں پر غور کرنا چاہیے اور ان پر شکر ادا کرنا چاہیے، کیونکہ شکر ادا کرنے کی اتنی بڑی اہمیت ہے کہ ہر عقلمند انسان کو اس پر توجہ دینی چاہیے۔ مثبت چیزوں پر دھیان دینا اور شکرگزاری کا رویہ اپنانا ہی حقیقی سکون کا ذریعہ ہے۔
