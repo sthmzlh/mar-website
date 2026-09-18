@@ -9,13 +9,13 @@ const nav = [
   ["/contact/", "رابطہ", "Contact"],
 ];
 ---
-<header class="border-b border-white/10 bg-forest-deep text-white">
+<header class="site-header">
   <div class="container-site flex min-h-20 items-center justify-between gap-5 py-3">
     <a href="/" class="focus-ring flex items-center gap-3 rounded-sm" aria-label="Mufti Abdul Raheem lecture archive home">
       <span class="grid size-11 place-items-center rounded-full border border-gold/70 text-xl text-gold" aria-hidden="true">م</span>
       <span>
         <strong class="urdu block text-xl font-semibold leading-none">مفتی عبد الرحیم</strong>
-        <small class="mt-1 block text-[.66rem] uppercase tracking-[.17em] text-white/65">Lecture Archive</small>
+        <small class="brand-caption mt-1 block text-[.66rem] uppercase tracking-[.17em]">Lecture Archive</small>
       </span>
     </a>
     <nav aria-label="Primary navigation" class="hidden items-center gap-6 lg:flex">
@@ -26,7 +26,7 @@ const nav = [
         </a>
       ))}
     </nav>
-    <a href="https://www.youtube.com/@muftiabdulraheem" rel="noopener noreferrer" target="_blank" class="focus-ring hidden rounded-full border border-white/20 px-5 py-2.5 text-sm font-semibold transition hover:border-gold hover:text-gold sm:inline-flex">YouTube ↗</a>
+    <a href="https://www.youtube.com/@muftiabdulraheem" rel="noopener noreferrer" target="_blank" class="youtube-link focus-ring hidden rounded-lg border px-5 py-2.5 text-sm font-semibold transition hover:border-gold hover:text-gold sm:inline-flex">YouTube ↗</a>
     <button id="menu-toggle" class="focus-ring grid size-11 place-items-center rounded-full border border-white/20 text-xl lg:hidden" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open navigation">☰</button>
   </div>
   <nav id="mobile-menu" aria-label="Mobile navigation" class="container-site hidden border-t border-white/10 py-3 lg:hidden">
@@ -39,7 +39,14 @@ const nav = [
   toggle?.addEventListener("click", () => {
     const open = toggle.getAttribute("aria-expanded") === "true";
     toggle.setAttribute("aria-expanded", String(!open));
+    toggle.setAttribute("aria-label", open ? "Open navigation" : "Close navigation");
     toggle.textContent = open ? "☰" : "×";
     menu?.classList.toggle("hidden", open);
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && toggle?.getAttribute("aria-expanded") === "true") {
+      toggle.click();
+      toggle.focus();
+    }
   });
 </script>

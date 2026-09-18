@@ -38,6 +38,7 @@ const yearOptions = [...new Set(searchData.map((item) => new Date(item.publicati
     const dataNode = document.querySelector("#search-data");
     const data = JSON.parse(dataNode?.textContent ?? "[]");
     const input = document.querySelector<HTMLInputElement>("#search-input");
+    if (input) input.value = new URLSearchParams(location.search).get("q") ?? "";
     const topic = document.querySelector<HTMLSelectElement>("#topic-filter");
     const year = document.querySelector<HTMLSelectElement>("#year-filter");
     const sort = document.querySelector<HTMLSelectElement>("#sort-filter");

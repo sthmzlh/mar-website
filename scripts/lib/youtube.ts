@@ -14,10 +14,23 @@ function tag(xml: string, name: string) {
   return match ? decodeXml(match[1].trim()) : "";
 }
 
-export async function fetchYouTubeFeed(feedUrl: string): Promise<VideoMetadata[]> {
+export async function fetchYouTubeFeed(feedUrl: string, request: typeof fetch = fetch, pause = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))): Promise<VideoMetadata[]> {
+  let lastError: unknown;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      return await fetchFeedOnce(feedUrl, request);
+    } catch (error) {
+      lastError = error;
+      if (attempt < 2) await pause(2000 * (attempt + 1));
+    }
+  }
+  throw lastError;
+}
+
+async function fetchFeedOnce(feedUrl: string, request: typeof fetch): Promise<VideoMetadata[]> {
   let response: Response;
   try {
-    response = await fetch(feedUrl, { headers: { "user-agent": "muftiabdulraheem.com lecture archive/1.0" } });
+    response = await request(feedUrl, { headers: { "user-agent": "muftiabdulraheem.com lecture archive/1.0" }, signal: AbortSignal.timeout(15000) });
   } catch (error) {
     throw new Error(`YouTube feed unavailable: ${error instanceof Error ? error.message : "network error"}`);
   }
@@ -40,6 +53,9 @@ export async function fetchYouTubeFeed(feedUrl: string): Promise<VideoMetadata[]
 
 export function extractVideoId(url: string) {
   const parsed = new URL(url);
+  if (!["https:", "http:"].includes(parsed.protocol) || !["youtube.com", "www.youtube.com", "m.youtube.com", "youtu.be"].includes(parsed.hostname)) {
+    throw new Error("Provide a YouTube video URL.");
+  }
   const id = parsed.hostname === "youtu.be" ? parsed.pathname.slice(1) : parsed.searchParams.get("v");
   if (!id || !/^[A-Za-z0-9_-]{11}$/.test(id)) throw new Error("The supplied URL does not contain a valid YouTube video ID.");
   return id;

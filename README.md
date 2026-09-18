@@ -32,6 +32,14 @@ Published pages remain available if YouTube or Gemini is temporarily unavailable
 
 ## Local development
 
+### September 2026 maintenance
+
+The interface uses a white/slate theme with teal accents, six recent lectures on the homepage, and a search form that passes its query to the search page. Lecture pages include direct Urdu and English summary links.
+
+YouTube RSS requests use a 15-second timeout and at most three attempts with short backoff. These feed retries do not call Gemini. Persistent upstream failures still fail the job visibly and leave the published archive intact. Gemini remains limited to one video per workflow run with no automatic API retries.
+
+For a browser and internal-link audit, build the site, start a preview on port 4322, and run `node scripts/verify-site.mjs` with Playwright available. `PLAYWRIGHT_MODULE` can specify an installed module URL; `BROWSER_CHANNEL` defaults to `msedge`. Screenshots are saved to the operating system's temporary folder.
+
 ### Requirements
 
 - Node.js 24 (minimum supported version configured here: Node 22.12)

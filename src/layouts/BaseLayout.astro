@@ -38,8 +38,9 @@ const imageUrl = new URL(image, Astro.site);
     <title>{title}</title>
   </head>
   <body>
+    <a class="skip-link" href="#main-content">Skip to content · اصل مواد پر جائیں</a>
     <Header />
-    <main><slot /></main>
+    <main id="main-content" tabindex="-1"><slot /></main>
     <Footer />
   </body>
 </html>

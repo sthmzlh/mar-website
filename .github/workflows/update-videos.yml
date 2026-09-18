@@ -19,6 +19,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     outputs:
       changed: ${{ steps.changes.outputs.changed }}
     steps:
@@ -70,6 +71,10 @@ jobs:
           git commit -m "content: add new lecture summaries"
           git pull --rebase origin main
           git push origin HEAD:main
+
+      - name: Rebuild the exact committed content after synchronization
+        if: steps.changes.outputs.changed == 'true'
+        run: npm run build
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
