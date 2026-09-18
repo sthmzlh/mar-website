@@ -1,0 +1,28 @@
+---
+youtubeVideoId: "xHePWm4omZM"
+youtubeUrl: "https://www.youtube.com/watch?v=xHePWm4omZM"
+originalTitle: "The End of the Houthis Is Near | Mufti Abdul Raheem"
+urduTitle: "حوثیوں کا خاتمہ قریب ہے"
+englishTitle: "The End of the Houthis Is Near"
+slug: "end-of-the-houthis-is-near-mufti-abdul-raheem"
+publicationDate: "2026-09-18"
+thumbnailUrl: "https://i.ytimg.com/vi/xHePWm4omZM/hqdefault.jpg"
+shortUrduSummary: "مفتی عبد الرحیم اس بیان میں حوثیوں کی عسکری تنظیم اور ان کی کارروائیوں پر گفتگو کرتے ہیں۔ وہ بتاتے ہیں کہ حوثیوں کے پاس کوئی باقاعدہ حکومت نہیں ہے بلکہ یہ ایک عسکری گروہ ہے جو دیگر تنظیموں کے مقابلے میں زیادہ طاقتور سمجھا جاتا ہے۔ ماضی میں داعش جیسی تنظیموں کو بھی عارضی عروج ملا لیکن وہ ختم ہو گئیں، اور اب حوثیوں کی طرف سے خانہ کعبہ اور مقدس مقامات کو نشانہ بنانا اور میزائل فائر کرنا ان کے خاتمے کا سبب بنے گا۔ سعودی حکومت نے بھی اس حملے کی تردید اور تصدیق کی ہے کہ کس طرح مکہ مکرمہ کی فضاؤں میں میزائل اور ڈرون کو مار گرایا گیا۔ مفتی عبد الرحیم کا ماننا ہے کہ مقدس مقامات کی توہین اور جارحیت حوثیوں کے انجام کا پروانہ ثابت ہوگی اور سعودی حکومت انہیں نیست و نابود کرنے کی پوری صلاحیت رکھتی ہے۔"
+detailedUrduSummary: "مفتی عبد الرحیم اس بیان میں حوثیوں کی عسکری سرگرمیوں، ان کے بڑھتے ہوئے خطرات اور ان کے انجام کے حوالے سے بات کرتے ہیں۔ وہ وضاحت کرتے ہیں کہ حوثیوں کی کوئی باقاعدہ سیاسی حکومت تسلیم شدہ نہیں ہے بلکہ یہ ایک طاقتور عسکری تنظیم ہے جسے ماضی میں داعش جیسی تحریکوں کی طرح وقتی طاقت حاصل ہوئی۔\n\nبیان میں اس بات پر سخت تشویش کا اظہار کیا گیا ہے کہ حوثی گروہ نے اللہ کے گھر یعنی مکہ مکرمہ اور مقدس مقامات کو نشانہ بنایا، وہاں میزائل اور ڈرون داغے، اور مسجد نبوی سے کچھ فاصلے پر پائپ لائن پر بھی حملہ کیا۔ مفتی عبد الرحیم نے اسے بلادِ مقدسہ اور حرمین شریفین کی کھلی توہین قرار دیا ہے۔ سعودی حکومت نے بھی اس بات کی تصدیق کی ہے کہ حوثیوں کے داغے گئے میزائلوں کو فضاؤں میں ناکام بنایا گیا اور مار گرایا گیا۔\n\nمفتی صاحب کے مطابق، جو لوگ بھی اللہ کے گھر یا حرم کی طرف میلی آنکھ سے دیکھتے ہیں یا میزائل فائر کرتے ہیں، ان کا انجام عبرت ناک ہوتا ہے۔ تاریخ گواہ ہے کہ داعش جیسی بڑی طاقتیں بھی مٹی میں مل گئیں، اور یہی انجام اب حوثیوں کا مقدر بننے والا ہے۔ سعودی حکومت اکیلے ہی ان کی اس جارحیت کا بھرپور جواب دینے اور ان کے مکمل خاتمے کی صلاحیت رکھتی ہے۔"
+englishSummary: "In this lecture, Mufti Abdul Raheem discusses the aggressive actions of the Houthi movement, noting that they operate as a militant organization rather than a formal government. He highlights their recent provocative attacks targeting the Holy Kaaba and sacred sites in Makkah with missiles and drones, as well as attacks near Madinah. Mufti Abdul Raheem emphasizes that attacking the holy sites is a grave transgression that marks the beginning of the end for the Houthis, drawing parallels to the rise and fall of past extremist groups like ISIS. He concludes that the Saudi government possesses the full capability to dismantle and eliminate this threat."
+keyPointsUrdu: ["حوثیوں کی کوئی باقاعدہ حکومت نہیں ہے بلکہ یہ ایک طاقتور عسکری تنظیم ہے۔","ماضی میں داعش کو بھی عارضی طاقت ملی تھی لیکن وہ بالاخر ختم ہو گئی۔","حوثی گروہ کی طرف سے مکہ مکرمہ اور مقدس مقامات پر میزائل اور ڈرون حملے کیے گئے۔","سعودی حکومت نے تصدیق کی ہے کہ مکہ مکرمہ کی فضاؤں میں حوثی میزائل کو مار گرایا گیا۔","مسجد نبوی کے قریب پائپ لائن پر بھی حملہ کیا گیا جسے توہینِ مقدسہ قرار دیا گیا۔","اللہ کے گھر کو نشانہ بنانا حوثیوں کے خاتمے اور بربادی کا یقینی سبب بنے گا۔","صرف سعودی حکومت ہی اکیلے اس عسکری تنظیم کا مکمل قلع قمع کرنے کی صلاحیت رکھتی ہے۔"]
+keyPointsEnglish: ["The Houthis do not have a formal government and operate primarily as a militant organization.","Similar to past extremist groups like ISIS that gained temporary power, the Houthis face inevitable decline.","The Houthi group has launched missile and drone attacks targeting Makkah and holy sites.","The Saudi government confirmed intercepting and destroying Houthi missiles in the airspace of Makkah.","Attacks near Madinah on pipelines are viewed as severe desecration of sacred places.","Targeting the House of Allah guarantees the ultimate downfall and destruction of the Houthis.","The Saudi government alone holds the capability to completely dismantle and neutralize this threat."]
+topicsUrdu: ["حوثی تنظیم اور ان کا عسکری وجود","حرمِ کعبہ اور مقدس مقامات پر حملے","سعودی عرب کا دفاع اور حوثیوں کا انجام"]
+topicsEnglish: ["Houthi Militant Organization and Status","Attacks on Makkah and Holy Sites","Saudi Defense and the End of Houthis"]
+keywords: ["Mufti Abdul Raheem","Houthis","Makkah","Saudi Arabia","Kabba","Missile Attack","Madinah","حوثی","مفتی عبد الرحیم","مکہ مکرمہ","سعودی حکومت","خانہ کعبہ"]
+speaker: "Mufti Abdul Raheem"
+generatedAt: "2026-09-18T20:58:22.565Z"
+aiAssisted: true
+draft: false
+---
+
+مفتی عبد الرحیم اس بیان میں حوثیوں کی عسکری سرگرمیوں، ان کے بڑھتے ہوئے خطرات اور ان کے انجام کے حوالے سے بات کرتے ہیں۔ وہ وضاحت کرتے ہیں کہ حوثیوں کی کوئی باقاعدہ سیاسی حکومت تسلیم شدہ نہیں ہے بلکہ یہ ایک طاقتور عسکری تنظیم ہے جسے ماضی میں داعش جیسی تحریکوں کی طرح وقتی طاقت حاصل ہوئی۔
+
+بیان میں اس بات پر سخت تشویش کا اظہار کیا گیا ہے کہ حوثی گروہ نے اللہ کے گھر یعنی مکہ مکرمہ اور مقدس مقامات کو نشانہ بنایا، وہاں میزائل اور ڈرون داغے، اور مسجد نبوی سے کچھ فاصلے پر پائپ لائن پر بھی حملہ کیا۔ مفتی عبد الرحیم نے اسے بلادِ مقدسہ اور حرمین شریفین کی کھلی توہین قرار دیا ہے۔ سعودی حکومت نے بھی اس بات کی تصدیق کی ہے کہ حوثیوں کے داغے گئے میزائلوں کو فضاؤں میں ناکام بنایا گیا اور مار گرایا گیا۔
+
+مفتی صاحب کے مطابق، جو لوگ بھی اللہ کے گھر یا حرم کی طرف میلی آنکھ سے دیکھتے ہیں یا میزائل فائر کرتے ہیں، ان کا انجام عبرت ناک ہوتا ہے۔ تاریخ گواہ ہے کہ داعش جیسی بڑی طاقتیں بھی مٹی میں مل گئیں، اور یہی انجام اب حوثیوں کا مقدر بننے والا ہے۔ سعودی حکومت اکیلے ہی ان کی اس جارحیت کا بھرپور جواب دینے اور ان کے مکمل خاتمے کی صلاحیت رکھتی ہے۔
