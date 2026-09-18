@@ -1,0 +1,26 @@
+---
+youtubeVideoId: "VthbTQh1iRs"
+youtubeUrl: "https://www.youtube.com/watch?v=VthbTQh1iRs"
+originalTitle: "Who Are the Houthis? | Mufti Abdul Raheem"
+urduTitle: "حوثی کون ہیں؟"
+englishTitle: "Who Are the Houthis?"
+slug: "who-are-the-houthis"
+publicationDate: "2026-09-18"
+thumbnailUrl: "https://i.ytimg.com/vi/VthbTQh1iRs/hqdefault.jpg"
+shortUrduSummary: "اس ویڈیو میں مفتی عبدالرحیم صاحب حوثی تحریک، ان کے عقائد، تاریخ اور موجودہ صورتحال پر روشنی ڈالتے ہیں۔ وہ بتاتے ہیں کہ حوثی فرقہ زدیہ سے تعلق رکھتا ہے اور ان کے عقائد معتزلہ، امامیہ اور حنفی فقہ سے ملتے جلتے ہیں۔ انہیں تفضیلی شیعہ کہا جاتا ہے جو خلفائے راشدین کی خلافت کو مانتے ہیں لیکن حضرت علی رضی اللہ عنہ کو افضل سمجھتے ہیں۔ ویڈیو میں حوثیوں کے یمن میں اثر و رسوخ، عسکری تنظیم بننے اور بین الاقوامی لابی کے ذریعے ان کے استعمال ہونے پر بھی بحث کی گئی ہے۔ مفتی صاحب بتاتے ہیں کہ حوثیوں کی طرف سے مکہ مکرمہ، مدینہ طیبہ اور دیگر مقدس مقامات کو نشانہ بنانے کے پیچھے ایک بڑی بین الاقوامی سازش ہے۔"
+detailedUrduSummary: "مفتی عبدالرحیم صاحب اس گفتگو میں حوثی تحریک کے پس منظر، نظریات اور ان کے سیاسی و عسکری ارتقاء کا تفصیلی جائزہ پیش کرتے ہیں۔ وہ بتاتے ہیں کہ حوثیوں کا تعلق فرقہ زدیہ سے ہے اور ان کے عقائد میں معتزلہ، امامیہ اور اشعریہ و حنفی فقہ کے بعض عناصر پائے جاتے ہیں۔ انہیں تفضیلی شیعہ کہا جاتا ہے کیونکہ وہ حضرت علی رضی اللہ عنہ کو افضل ماننے کے باوجود خلافتِ راشدہ کا انکار نہیں کرتے۔\n\nابتدائی دور میں ان کا مرکز سادہ کا علاقہ تھا جہاں ان کے مدارس اور علماء موجود تھے۔ عسکری تنظیم بننے سے پہلے وہ محض ایک مذہبی اور فکری گروہ تھے، لیکن جب ان کا رابطہ عسکری تنظیموں اور بیرونی قوتوں سے ہوا تو ان کے نظریات میں شدت آ گئی جو کہ خوارج اور داعش کے نظریات سے مشابہت رکھتی ہے۔ مفتی صاحب کے مطابق، یمن کے مختلف قبائل بالخصوص شمالی اور جنوبی یمن کے اتحاد کے بعد حوثیوں نے یمن کی متفقہ حکومت کے خلاف بغاوت کی اور میزائل حملے کیے۔ حوثیوں کی طرف سے حرمین شریفین (مکہ مکرمہ اور مدینہ طیبہ) اور دیگر مقدس مقامات کو نشانہ بنانے کی دھمکیاں اور بیانات اس بات کا ثبوت ہیں کہ اس کے پیچھے ایک بڑی بین الاقوامی لابی کام کر رہی ہے جو اسلامی مقدسات کو نقصان پہنچانا چاہتی ہے۔"
+englishSummary: "In this video, Mufti Abdul Raheem discusses the origins, beliefs, and political evolution of the Houthi movement. He explains that the Houthis belong to the Zaydi sect, holding beliefs close to Mutazilite and Imami traditions while maintaining respect for the Rightly Guided Caliphs. Over time, their ideology has shifted towards militancy and extremism, with reports and statements indicating threats towards holy sites like Makkah and Madinah, reflecting broader geopolitical implications and international backing."
+keyPointsUrdu: ["حوثیوں کا تعلق فرقہ زدیہ سے ہے جو کہ معتزلہ اور حنفی فقہ کے قریب ہیں۔","انہیں تفضیلی شیعہ کہا جاتا ہے جو خلفائے راشدین کی خلافت کو مانتے ہیں لیکن حضرت علی کو افضل سمجھتے ہیں۔","شروع میں ان کا مرکز سادہ کا علاقہ تھا جہاں ان کے مدارس اور علماء موجود تھے۔","عسکری تنظیم بننے کے بعد حوثیوں کے نظریات میں شدت آ گئی اور ان کا رابطہ بیرونی طاقتوں سے جڑا۔","یمن میں حوثیوں کی طرف سے حکومت کے خلاف بغاوت اور میزائل حملے کیے گئے۔","حوثیوں کے بعض رہنماؤں اور سوشل میڈیا بیانات میں حرمین شریفین کو نشانہ بنانے کی باتیں کہی گئی ہیں۔","مفتی صاحب کے مطابق اس تحریک کے پیچھے ایک بڑی بین الاقوامی لابی اور سازش کار فرما ہے۔"]
+keyPointsEnglish: ["The Houthis belong to the Zaydi sect with jurisprudential ties close to Hanafi and Mutazilite traditions.","They are considered 'Tafzeeli Shia' who accept the Khilafat of the Rightly Guided Caliphs while holding Ali (R.A) as superior.","Initially, their stronghold was in Sa'dah with local scholars and madrasas.","Following their militarization, their ideology grew increasingly extreme and connected to external geopolitical interests.","The Houthis revolted against the unified government of Yemen and launched missile strikes.","Statements and social media posts from Houthi figures have threatened holy sites like Makkah and Madinah.","Mufti Abdul Raheem notes that a large international lobbying network is utilizing them."]
+topicsUrdu: ["حوثی تحریک","فرقہ زدیہ","یمن کی صورتحال","مذہبی و سیاسی نظریات"]
+topicsEnglish: ["Houthi Movement","Zaydi Sect","Yemeni Politics","Religious & Ideological Views"]
+keywords: ["حوثی","یمن","زدیہ","مفتی عبدالرحیم","شیعہ","معتزلہ","عسکری تنظیم","حرمین شریفین"]
+speaker: "Mufti Abdul Raheem"
+generatedAt: "2026-09-18T16:30:18.041Z"
+aiAssisted: true
+draft: false
+---
+
+مفتی عبدالرحیم صاحب اس گفتگو میں حوثی تحریک کے پس منظر، نظریات اور ان کے سیاسی و عسکری ارتقاء کا تفصیلی جائزہ پیش کرتے ہیں۔ وہ بتاتے ہیں کہ حوثیوں کا تعلق فرقہ زدیہ سے ہے اور ان کے عقائد میں معتزلہ، امامیہ اور اشعریہ و حنفی فقہ کے بعض عناصر پائے جاتے ہیں۔ انہیں تفضیلی شیعہ کہا جاتا ہے کیونکہ وہ حضرت علی رضی اللہ عنہ کو افضل ماننے کے باوجود خلافتِ راشدہ کا انکار نہیں کرتے۔
+
+ابتدائی دور میں ان کا مرکز سادہ کا علاقہ تھا جہاں ان کے مدارس اور علماء موجود تھے۔ عسکری تنظیم بننے سے پہلے وہ محض ایک مذہبی اور فکری گروہ تھے، لیکن جب ان کا رابطہ عسکری تنظیموں اور بیرونی قوتوں سے ہوا تو ان کے نظریات میں شدت آ گئی جو کہ خوارج اور داعش کے نظریات سے مشابہت رکھتی ہے۔ مفتی صاحب کے مطابق، یمن کے مختلف قبائل بالخصوص شمالی اور جنوبی یمن کے اتحاد کے بعد حوثیوں نے یمن کی متفقہ حکومت کے خلاف بغاوت کی اور میزائل حملے کیے۔ حوثیوں کی طرف سے حرمین شریفین (مکہ مکرمہ اور مدینہ طیبہ) اور دیگر مقدس مقامات کو نشانہ بنانے کی دھمکیاں اور بیانات اس بات کا ثبوت ہیں کہ اس کے پیچھے ایک بڑی بین الاقوامی لابی کام کر رہی ہے جو اسلامی مقدسات کو نقصان پہنچانا چاہتی ہے۔
