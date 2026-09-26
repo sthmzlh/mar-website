@@ -1,0 +1,24 @@
+---
+youtubeVideoId: "soN2yeQQr24"
+youtubeUrl: "https://www.youtube.com/watch?v=soN2yeQQr24"
+originalTitle: "Iman Kab Khatam Ho Jata Hai? | Mufti Abdul Raheem"
+urduTitle: "ایمان کب ختم ہو جاتا ہے؟"
+englishTitle: "When Does Faith End?"
+slug: "iman-kab-khatam-ho-jata-hai"
+publicationDate: "2026-09-26"
+thumbnailUrl: "https://i.ytimg.com/vi/soN2yeQQr24/hqdefault.jpg"
+shortUrduSummary: "اس مختصر بیان میں مفتی عبدالرحیم نے اس اہم شرعی اصول کو واضح کیا ہے کہ انسان کا ایمان کب ختم ہوتا ہے اور وہ کب دائرہ اسلام سے خارج ہو کر مرتد ہو جاتا ہے۔ مفتی صاحب نے وضاحت کی ہے کہ جب دین کی ضروریات میں سے ایسے امور کا انکار کیا جائے جو قطعی اور بدیہی ہوں، یعنی جن کا ثبوت اور معنی قطعی اور واضح ہو اور جن میں تاویل یا دوسری رائے کی کوئی گنجائش نہ ہو، تو ان کا انکار کرنے والا کافر اور مرتد ہو جاتا ہے۔ یہ انکار خواہ زبان سے ہو یا کسی ایسے عمل کے ذریعے ہو جو یقینی طور پر دین کے ضروریات کا منکر ہونے کی دلالت کرتا ہو۔"
+detailedUrduSummary: "اس بیان میں مفتی عبدالرحیم نے ارتداد اور ایمان و کفر کے بنیادی اصول پر تفصیلی روشنی ڈ डाली ہے۔ مفتی صاحب نے بتایا کہ انسان کب دائرہ اسلام سے خارج ہو کر مرتد قرار پاتا ہے۔ دین کی ضروریات میں سے ایسے امور جو قطعی اور بدیہی ہوتے ہیں، ان کا انکار انسان کو ایمان سے خارج کر دیتا ہے۔ قطعی سے مراد وہ امور ہیں جن کا ثبوت اور ان کے الفاظ کے معنی قطعی الثبوت اور قطعی الدلالت ہوں، یعنی جن کی دلالت اتنی واضح ہو کہ اس میں ایک سے زیادہ تاویلات یا رائیں نہ نکالی جا سکیں۔ بدیہی وہ امور ہیں جنہیں ہر خاص و عام دین کا حکم سمجھتا ہو۔ ایسی قطعی اور بدیہی باتوں کا انکار کرنا یا ان کا منکر ہونا انسان کو کافر اور مرتد بنا دیتا ہے۔ یہ انکار خواہ زبان کے ذریعے ہو یا پھر کسی ایسے فعل اور عمل کی صورت میں ہو جو قطعی طور پر اس بات کی دلالت کرتا ہو کہ انسان ضروریاتِ دین کا منکر ہو چکا ہے۔ اس طرح کے امور کا انکار ایمان کو ختم کر دیتا ہے اور انسان کفر کی حالت میں داخل ہو جاتا ہے۔"
+englishSummary: "In this short lecture, Mufti Abdul Raheem explains the fundamental Islamic principle of when a person's faith ends and they become a disbeliever or apostate. He clarifies that denying matters of religion that are definitive (qat'i) and self-evident (badihi)—meaning their proof and meanings are absolute and leave no room for alternative interpretations—results in apostasy. Such denial can occur through explicit statements or through actions that clearly indicate the rejection of essential religious tenets."
+keyPointsUrdu: ["انسان کے مرتد ہونے کی بنیادی وجہ دین کی قطعی اور بدیہی ضروریات کا انکار ہے۔","قطعی امور وہ ہیں جن کا ثبوت اور معنی بالکل یقینی اور واضح ہوں۔","قطعی الدلالت امور میں ایک سے زیادہ آراء یا تاویل کی گنجائش نہیں ہوتی۔","بدیہی امور وہ ہیں جنہیں ہر عام و خاص دین کا حکم سمجھتا ہو۔","قطعی اور بدیہی احکام کا انکار کرنے سے آدمی کافر اور مرتد ہو جاتا ہے۔","کفر اور ارتداد کا یہ انکار زبان کے ذریعے بھی ہو سکتا ہے اور عملی طور پر بھی۔","ایسا عمل جو یقینی طور پر ضروریاتِ دین کے انکار پر دلالت کرے، وہ بھی ارتداد کا سبب بنتا ہے۔"]
+keyPointsEnglish: ["A person becomes an apostate by denying the definitive and self-evident necessities of religion.","Definitive (qat'i) matters have absolute proof and clear meanings.","Definitive texts leave no room for multiple interpretations or alternative opinions.","Self-evident (badihi) matters are understood as religious rulings by both common and elite people.","Denying these definitive and self-evident rulings renders a person a disbeliever and apostate.","This denial of faith and apostasy can occur verbally as well as through actions.","Any action that unequivocally signifies the rejection of religious essentials also leads to apostasy."]
+topicsUrdu: ["ایمان اور کفر کے اصول","مسئلہ ارتداد","ضروریاتِ دین","قطعی اور بدیہی امور"]
+topicsEnglish: ["Principles of Faith and Disbelief","Issue of Apostasy","Essentials of Religion","Definitive and Self-Evident Matters"]
+keywords: ["ایمان","کفر","مرتد","مفتی عبدالرحیم","ضروریات دین","قطعی","بدیہی","Iman","Kufr","Apostasy","Mufti Abdul Raheem"]
+speaker: "Mufti Abdul Raheem"
+generatedAt: "2026-09-26T11:31:51.392Z"
+aiAssisted: true
+draft: false
+---
+
+اس بیان میں مفتی عبدالرحیم نے ارتداد اور ایمان و کفر کے بنیادی اصول پر تفصیلی روشنی ڈ डाली ہے۔ مفتی صاحب نے بتایا کہ انسان کب دائرہ اسلام سے خارج ہو کر مرتد قرار پاتا ہے۔ دین کی ضروریات میں سے ایسے امور جو قطعی اور بدیہی ہوتے ہیں، ان کا انکار انسان کو ایمان سے خارج کر دیتا ہے۔ قطعی سے مراد وہ امور ہیں جن کا ثبوت اور ان کے الفاظ کے معنی قطعی الثبوت اور قطعی الدلالت ہوں، یعنی جن کی دلالت اتنی واضح ہو کہ اس میں ایک سے زیادہ تاویلات یا رائیں نہ نکالی جا سکیں۔ بدیہی وہ امور ہیں جنہیں ہر خاص و عام دین کا حکم سمجھتا ہو۔ ایسی قطعی اور بدیہی باتوں کا انکار کرنا یا ان کا منکر ہونا انسان کو کافر اور مرتد بنا دیتا ہے۔ یہ انکار خواہ زبان کے ذریعے ہو یا پھر کسی ایسے فعل اور عمل کی صورت میں ہو جو قطعی طور پر اس بات کی دلالت کرتا ہو کہ انسان ضروریاتِ دین کا منکر ہو چکا ہے۔ اس طرح کے امور کا انکار ایمان کو ختم کر دیتا ہے اور انسان کفر کی حالت میں داخل ہو جاتا ہے۔
