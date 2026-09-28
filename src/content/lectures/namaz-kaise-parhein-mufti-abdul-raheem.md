@@ -1,0 +1,28 @@
+---
+youtubeVideoId: "2nvuMRO6BdI"
+youtubeUrl: "https://www.youtube.com/watch?v=2nvuMRO6BdI"
+originalTitle: "Namaz Kaise Parhein? | Mufti Abdul Raheem"
+urduTitle: "نماز میں یکسوئی اور خشوع و خضوع کا طریقہ | مفتی عبدالرحیم"
+englishTitle: "How to Offer Namaz with Concentration and Khushoo | Mufti Abdul Raheem"
+slug: "namaz-kaise-parhein-mufti-abdul-raheem"
+publicationDate: "2026-09-28"
+thumbnailUrl: "https://i.ytimg.com/vi/2nvuMRO6BdI/hqdefault.jpg"
+shortUrduSummary: "اس بیان میں مفتی عبدالرحیم صاحب نے نماز میں یکسوئی، خشوع و خضوع اور صحیح طریقے سے نماز ادا کرنے کی اہمیت پر روشنی ڈالی ہے۔ آپ نے سمجھایا کہ کس طرح نماز غفلت اور لاپرواہی کی وجہ سے ضائع ہو جاتی ہے اور اسے درست کرنے کے کیا آداب ہیں۔ نماز میں پڑھی جانے والی تسبیحات اور سورتوں کے تراجم پر غور کرنے سے دل میں خشوع پیدا ہوتا ہے۔ اس کے علاوہ تکبیر تحریمہ، قیام، رکوع اور سجدے کے درست طریقوں کو اپنانے کی تلقین کی گئی ہے تاکہ نماز اللہ کے حضور مقبول ہو سکے۔"
+detailedUrduSummary: "اس بیان میں مفتی عبدالرحیم صاحب نے نماز کو بہترین طریقے سے ادا کرنے اور اس میں خشوع و خضوع پیدا کرنے کے طریقوں پر تفصیل سے گفتگو کی ہے۔ آپ نے فرمایا کہ اکثر لوگ نماز جلدی میں اور بے دھیانی سے پڑھ کر فارغ ہو جاتے ہیں جس کی وجہ سے نماز ان کے منہ پر مار دی جاتی ہے اور وہ بددعا کرتی ہے۔ نماز اللہ تعالی سے ملاقات ہے، اس لیے اس کے لیے پورا اہتمام، سنتوں کی پابندی اور باوضو ہو کر کھڑے ہونے کی ضرورت ہے۔ \n\nبیان میں بتایا گیا ہے کہ نماز کے اندر پڑھی جانے والی تسبیحات اور سورۃ فاتحہ وغیرہ کے معانی و تراجم سیکھنے سے انسان کا ذہن یکسو ہوتا ہے کیونکہ جب بندہ اللہ کی تعریف کرتا ہے تو اللہ تعالی اس کا جواب دیتا ہے۔ اسی طرح نماز میں اپنے ذاتی مسائل اور پریشانیوں کے حل کے لیے صراط مستقیم کی دعا مانگنی چاہیے۔ \n\nمفتی صاحب نے نماز کے ظاہری آداب جیسے کھڑے ہونے کا طریقہ، دونوں پاؤں سیدھے رکھنا، ہاتھ اٹھانے کی سنت سنت طریقہ، رکوع اور سجدے کی حالت میں اعتدال اور اطمینان کو بیان کیا ہے۔ حضور اکرم صلی اللہ علیہ وسلم کی نماز کا حوالہ دیتے ہوئے بتایا گیا کہ آپ اس طرح نماز پڑھتے تھے کہ رکوع و سجدے میں اعتدال اور سکون مکمل ہوتا تھا۔ ان تمام باتوں پر عمل کرنے سے نماز میں حقیقی خشوع و خضوع پیدا ہوتا ہے اور انسان کی دنیا و آخرت سنور جاتی ہے۔"
+englishSummary: "In this lecture, Mufti Abdul Raheem discusses the importance of offering namaz with concentration, khushoo, and proper etiquette. He explains how performing prayers carelessly can lead to acceptance issues, whereas understanding the translations of what is recited in prayer helps foster genuine focus. The lecture covers the correct physical postures and inner states required during qiyam, rukoo, and sujood, following the Sunnah of the Prophet (PBUH) to attain spiritual connection and acceptance from Allah."
+keyPointsUrdu: ["نماز غفلت اور بے دھیانی سے پڑھنے پر نماز انسان کے منہ پر مار دی جاتی ہے۔","نماز اللہ تعالی سے ملاقات ہے لہذا اسے پورے خشوع و خضوع اور سنت کے ساتھ پڑھنا چاہیے۔","نماز میں پڑھی جانے والی سورتوں اور تسبیحات کا ترجمہ سیکھنے سے دل میں یکسوئی پیدا ہوتی ہے۔","الحمد للہ رب العالمين کہنے پر اللہ تعالی فرماتے ہیں میرے بندے نے میری تعریف کی۔","نماز میں صراط مستقیم کی دعا مانگتے وقت تشویش اور مسائل کا خیال رکھنا چاہیے۔","نماز کے لیے ہاتھ اٹھانے کا مسنون طریقہ یہ ہے کہ انگلیوں کا رخ قبلے کی طرف ہو۔","نماز میں پاؤں سیدھے رکھنا اور سنجیدگی محسوس کرنا ضروری ہے۔","رکوع اور سجدے کے دوران اعتدال اور اطمینان مسنون طریقے کے مطابق ہونا چاہیے۔"]
+keyPointsEnglish: ["Offering prayers without proper concentration and mindfulness can lead to rejection.","Namaz is a meeting with Allah and must be performed with utmost humility and adherence to Sunnah.","Learning the translation of Quranic verses and supplications recited in prayer enhances focus.","When a person recites Al-Hamdu Lillahi Rabbil Alamin, Allah responds that His servant has praised Him.","While asking for the straight path in prayer, one should sincerely present personal concerns to Allah.","The Sunnah way of raising hands for Takbeer is keeping fingers facing the Qiblah.","Keeping feet straight and maintaining physical composure during prayer is essential.","Rukoo and Sujood must be performed with proper balance and tranquility according to the Sunnah."]
+topicsUrdu: ["نماز کا طریقہ","خشوع و خضوع","نماز کے آداب","تراجم و معانی","सुन्नत तरीके"]
+topicsEnglish: ["Method of Namaz","Concentration and Khushoo","Etiquette of Prayer","Translation and Meanings","Sunnah Practices"]
+keywords: ["Namaz","Mufti Abdul Raheem","Khushoo","Qiyam","Rukoo","Sujood","Sunnah","Prayer Etiquette","Islamic Lecture"]
+speaker: "Mufti Abdul Raheem"
+generatedAt: "2026-09-28T20:36:38.220Z"
+aiAssisted: true
+draft: false
+---
+
+اس بیان میں مفتی عبدالرحیم صاحب نے نماز کو بہترین طریقے سے ادا کرنے اور اس میں خشوع و خضوع پیدا کرنے کے طریقوں پر تفصیل سے گفتگو کی ہے۔ آپ نے فرمایا کہ اکثر لوگ نماز جلدی میں اور بے دھیانی سے پڑھ کر فارغ ہو جاتے ہیں جس کی وجہ سے نماز ان کے منہ پر مار دی جاتی ہے اور وہ بددعا کرتی ہے۔ نماز اللہ تعالی سے ملاقات ہے، اس لیے اس کے لیے پورا اہتمام، سنتوں کی پابندی اور باوضو ہو کر کھڑے ہونے کی ضرورت ہے۔ 
+
+بیان میں بتایا گیا ہے کہ نماز کے اندر پڑھی جانے والی تسبیحات اور سورۃ فاتحہ وغیرہ کے معانی و تراجم سیکھنے سے انسان کا ذہن یکسو ہوتا ہے کیونکہ جب بندہ اللہ کی تعریف کرتا ہے تو اللہ تعالی اس کا جواب دیتا ہے۔ اسی طرح نماز میں اپنے ذاتی مسائل اور پریشانیوں کے حل کے لیے صراط مستقیم کی دعا مانگنی چاہیے۔ 
+
+مفتی صاحب نے نماز کے ظاہری آداب جیسے کھڑے ہونے کا طریقہ، دونوں پاؤں سیدھے رکھنا، ہاتھ اٹھانے کی سنت سنت طریقہ، رکوع اور سجدے کی حالت میں اعتدال اور اطمینان کو بیان کیا ہے۔ حضور اکرم صلی اللہ علیہ وسلم کی نماز کا حوالہ دیتے ہوئے بتایا گیا کہ آپ اس طرح نماز پڑھتے تھے کہ رکوع و سجدے میں اعتدال اور سکون مکمل ہوتا تھا۔ ان تمام باتوں پر عمل کرنے سے نماز میں حقیقی خشوع و خضوع پیدا ہوتا ہے اور انسان کی دنیا و آخرت سنور جاتی ہے۔
