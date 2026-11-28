@@ -1,0 +1,24 @@
+---
+youtubeVideoId: "aoA57DkKUrk"
+youtubeUrl: "https://www.youtube.com/watch?v=aoA57DkKUrk"
+originalTitle: "Establish a Consultative System in Madaris | Mufti Abdul Raheem"
+urduTitle: "مدارس میں شورائی نظام کا قیام"
+englishTitle: "Establish a Consultative System in Madaris"
+slug: "establish-a-consultative-system-in-madaris"
+publicationDate: "2026-11-27"
+thumbnailUrl: "https://i.ytimg.com/vi/aoA57DkKUrk/hqdefault.jpg"
+shortUrduSummary: "اس ویڈیو میں مفتی عبدالرحیم مدارس کے نظام میں شورائی نظام کی اہمیت اور اس کے نفاذ پر گفتگو کر رہے ہیں۔ ان کا کہنا ہے کہ ہر مدرسے میں باقاعدہ شورٰی ہونی چاہیے جو فیصلے کرنے کے امور میں مشاورت کرے تاکہ معاملات میں توازن قائم رہے اور کسی ایک فرد کی اجارہ داری یا غلط فیصلوں کا سدباب ہو سکے۔"
+detailedUrduSummary: "مفتی عبدالرحیم اس کلپ میں مدارس کے نظام اور انتظامی امور پر بات کرتے ہوئے فرماتے ہیں کہ ہر مدرسے کی باقاعدہ شورٰی ہونی چاہیے۔ جو ساتھی دورے پر جاتے ہیں وہ وہاں کی رپورٹ لے کر آئیں کہ ان کے ہاں اجتماعی نظم اور فیصلے کرنے کا طریقہ کار کیا ہے۔ اختیار تو ایک کا ہو سکتا ہے مگر شورٰی کا باقاعدہ نظم ہونا ضروری ہے۔ اس مقصد کے لیے تمام مدارس سے درخواست کی جاتی ہے کہ وہ اپنے کاموں کو آپس کے مشورے اور شورٰی کے تحت لے کر آئیں۔ یہ بات بھی اہم ہے کہ کوئی ایک امیر ہو، اور اس امیر کے پاس اختیارات دیتے وقت اس بات کا خیال رکھا جائے کہ سیاہ و سفید کا مالک صرف ایک ہی شخص نہ بن جائے جو اپنے طور پر مرضی کی فیصلے کرتا رہے، بلکہ اجتماعی فیصلے ہونے چاہئیں اور اختیارات میں توازن ہونا چاہیے۔ انہوں نے حضرت عمر رضی اللہ عنہ کی قائم کردہ شورٰی اور حضرت عبداللہ بن عمر رضی اللہ عنہ کی مثال دیتے ہوئے سمجھایا کہ کس طرح نگرانی اور نظام میں توازن رکھا جاتا ہے۔ آخر میں انہوں نے امید ظاہر کی کہ تمام مہتممین حضرات اور وفود اس نظام کو مزید بہتر بنانے اور نافذ کرنے کے لیے اقدامات کریں گے۔"
+englishSummary: "In this video, Mufti Abdul Raheem discusses the importance and implementation of a consultative system (shura) in Islamic madaris. He emphasizes that every madrasah should have a functional consultative body to ensure collective decision-making, proper balance of authority, and to prevent unilateral or arbitrary decisions by a single individual."
+keyPointsUrdu: ["ہر مدرسے میں باقاعدہ شورائی نظام کا ہونا ضروری ہے۔","مدارس کے دورے کرنے والے وفود کو وہاں کے شورائی طریقہ کار کی رپورٹ لانی چاہیے۔","فیصلے کرنے کے اختیارات میں توازن ہونا چاہیے تاکہ کوئی ایک شخص سیاہ و سفید کا اکیلا مالک نہ بنے۔","امیر کے پاس اختیارات ہوں لیکن تمام اہم امور باہمی مشورے سے طے پائیں۔","حضرت عمر رضی اللہ عنہ کے دور میں قائم کردہ شورٰی کی تاریخ سے توازن اور اصول سیکھے جا سکتے ہیں۔","مدارس کے مہتممین اور ذمہ داران کو اس نظام کو بہتر بنانے کی تلقین کی گئی ہے۔","وفود کو بھی اس بات کی رپورٹ تیار کرنے کی ہدایت دی گئی ہے کہ مختلف اداروں میں انتظامی امور کیسے چلائے جا رہے ہیں۔"]
+keyPointsEnglish: ["Every madrasah must have a formal and active consultative (shura) system.","Delegates visiting different institutions should report back on their administrative and consultative methods.","Authority in decision-making must be balanced to prevent a single person from having absolute unilateral control.","While an amir holds authority, important matters should be decided through mutual consultation.","Historical examples from the era of Hazrat Umar (RA) demonstrate how to maintain balance and oversight.","Administrators and key stakeholders of madaris are encouraged to strengthen this consultative system.","Visiting delegations are requested to compile proper reports on the implementation of educational systems."]
+topicsUrdu: ["مدارس کا نظام","شورائی نظام","انتظامی امور","اجتماعی فیصلے"]
+topicsEnglish: ["Madrasah System","Consultative System","Administrative Affairs","Collective Decisions"]
+keywords: ["Mufti Abdul Raheem","Madaris","Shura","Consultation","Administration","Islamic Education","Islamic Finance","Leadership"]
+speaker: "Mufti Abdul Raheem"
+generatedAt: "2026-11-28T02:45:15.762Z"
+aiAssisted: true
+draft: false
+---
+
+مفتی عبدالرحیم اس کلپ میں مدارس کے نظام اور انتظامی امور پر بات کرتے ہوئے فرماتے ہیں کہ ہر مدرسے کی باقاعدہ شورٰی ہونی چاہیے۔ جو ساتھی دورے پر جاتے ہیں وہ وہاں کی رپورٹ لے کر آئیں کہ ان کے ہاں اجتماعی نظم اور فیصلے کرنے کا طریقہ کار کیا ہے۔ اختیار تو ایک کا ہو سکتا ہے مگر شورٰی کا باقاعدہ نظم ہونا ضروری ہے۔ اس مقصد کے لیے تمام مدارس سے درخواست کی جاتی ہے کہ وہ اپنے کاموں کو آپس کے مشورے اور شورٰی کے تحت لے کر آئیں۔ یہ بات بھی اہم ہے کہ کوئی ایک امیر ہو، اور اس امیر کے پاس اختیارات دیتے وقت اس بات کا خیال رکھا جائے کہ سیاہ و سفید کا مالک صرف ایک ہی شخص نہ بن جائے جو اپنے طور پر مرضی کی فیصلے کرتا رہے، بلکہ اجتماعی فیصلے ہونے چاہئیں اور اختیارات میں توازن ہونا چاہیے۔ انہوں نے حضرت عمر رضی اللہ عنہ کی قائم کردہ شورٰی اور حضرت عبداللہ بن عمر رضی اللہ عنہ کی مثال دیتے ہوئے سمجھایا کہ کس طرح نگرانی اور نظام میں توازن رکھا جاتا ہے۔ آخر میں انہوں نے امید ظاہر کی کہ تمام مہتممین حضرات اور وفود اس نظام کو مزید بہتر بنانے اور نافذ کرنے کے لیے اقدامات کریں گے۔
